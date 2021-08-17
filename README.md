@@ -12,7 +12,6 @@
 Filters your camera feed of pixels failing WCAG  
 color contrast tests as a visual learning aid  
 <br>
-<br>
 <img align="left" src="https://user-images.githubusercontent.com/78187398/129798982-46039684-c9c2-4ddf-add3-4a9650ab51b1.png">
 
 [Inclusivity](https://apps.apple.com/app/inclusivity/id1566281154) &nbsp; &nbsp; *macOS — AppKit, Combine, SwiftUI*  
