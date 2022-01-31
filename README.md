@@ -1,7 +1,7 @@
 👋  I enjoy contributing to accessible apps and games. Currently, I'm developing a Bluetooth Low Energy inertial measurement unit SDK using Combine to abstract our C/C++ library and CoreBluetooth. I'm also migrating our own iOS and macOS apps to SwiftUI.
 
 ### Libraries
-* [MetaWear Swift Combine SDK](https://github.com/mbientlab/MetaWear-Swift-Combine-SDK) - Super fast syntax to stream sensor data and de-identify Bluetooth devices via iCloud
+* [MetaWear Swift Combine SDK](https://github.com/mbientlab/MetaWear-Swift-Combine-SDK) — Super fast syntax to stream sensor data and de-identify Bluetooth devices via iCloud
 * [Oklab](https://github.com/importRyan/oklab/) — A perceptual LAB color space useful for smooth gradients and parallel manipulations
 * [InclusiveColor](https://github.com/importRyan/inclusivecolor) — Unit test color scheme contrast
 
