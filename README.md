@@ -1,11 +1,12 @@
-👋  I enjoy contributing to accessible apps and games. Currently, I'm developing universal apps for Bluetooth wearables.
+👋  I enjoy contributing to accessible apps and games. Currently, I'm developing a Bluetooth Low Energy inertial measurement unit SDK using Combine to abstract our C/C++ library and CoreBluetooth. I'm also migrating our own iOS and macOS apps to SwiftUI.
 
 ### Libraries
+* [MetaWear Swift Combine SDK](https://github.com/mbientlab/MetaWear-Swift-Combine-SDK) - Super fast syntax to stream sensor data and de-identify Bluetooth devices via iCloud
 * [Oklab](https://github.com/importRyan/oklab/) — A perceptual LAB color space useful for smooth gradients and parallel manipulations
 * [InclusiveColor](https://github.com/importRyan/inclusivecolor) — Unit test color scheme contrast
 
 
-### Recent Apps in the App Store
+### Recent Personal Apps in the App Store
 <img align="left" src="https://user-images.githubusercontent.com/78187398/129800344-222723a8-c508-4a9b-bb65-ff7b3b4995ac.png"> 
 
 [WCAG Shades](https://apps.apple.com/app/wcag-shades/id1570595563) &nbsp; &nbsp; *iOS — UIKit, Metal*  
