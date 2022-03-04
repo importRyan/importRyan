@@ -5,6 +5,12 @@
 * [Oklab](https://github.com/importRyan/oklab/) — A perceptual LAB color space useful for smooth gradients and parallel manipulations
 * [InclusiveColor](https://github.com/importRyan/inclusivecolor) — Unit test color scheme contrast
 
+### Recent mbientlab Apps
+
+* [MetaWear](https://apps.apple.com/app/metawear/id1547334547) — Metal and SwiftUI for exploring BLE IMU sensor data during development
+* [MetaBase](https://testflight.apple.com/join/fcsKATBs) — Collect BLE IMU sensor data in research studies
+
+https://user-images.githubusercontent.com/78187398/156852363-441c152a-f2f8-47c3-a826-7381124138bf.move
 
 ### Recent Personal Apps in the App Store
 <img align="left" src="https://user-images.githubusercontent.com/78187398/129800344-222723a8-c508-4a9b-bb65-ff7b3b4995ac.png"> 
