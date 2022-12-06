@@ -1,18 +1,17 @@
-👋  I enjoy contributing to accessible apps and games. Currently, I'm an iOS engineer at [SeedFi](www.seedfi.com).
+👋  Passionate about accessible apps and games. Currently, I'm an iOS engineer at [SeedFi](www.seedfi.com).
 
-### Libraries
+### Fun Libraries
 * [MetaWear Swift Combine SDK](https://github.com/mbientlab/MetaWear-Swift-Combine-SDK) — Stream BLE sensor data
 * [Oklab](https://github.com/importRyan/oklab/) — A perceptual LAB color space useful for smooth gradients and parallel manipulations
-* [InclusiveColor](https://github.com/importRyan/inclusivecolor) — Unit test color scheme contrast
 
-### Recent mbientlab Apps
-
+### Apps
+* [SeedFi](https://apps.apple.com/us/app/seedfi-money-help/id1543834789) — Modular Composable Architecture + SwiftUI for consumer credit building and lending
 * [MetaWear](https://apps.apple.com/app/metawear/id1547334547) — Metal and SwiftUI for exploring BLE IMU sensor data during development
-* [MetaBase](https://testflight.apple.com/join/fcsKATBs) — Collect BLE IMU sensor data in research studies
+* MetaBase — Collect BLE IMU sensor data in research studies
 
 https://user-images.githubusercontent.com/78187398/156852363-441c152a-f2f8-47c3-a826-7381124138bf.move
 
-### Recent Personal Apps in the App Store
+### Hobby Apps
 <img align="left" src="https://user-images.githubusercontent.com/78187398/129800344-222723a8-c508-4a9b-bb65-ff7b3b4995ac.png"> 
 
 [WCAG Shades](https://apps.apple.com/app/wcag-shades/id1570595563) &nbsp; &nbsp; *iOS — UIKit, Metal*  
