@@ -1,4 +1,4 @@
-👋  Passionate about accessible apps and games. I'm an iOS engineer at the fintech [Empower](www.empower.me). Current open-source hobby project is [Colors We Can See](https://github.com/importRyan/Colors-We-See) that filters a camera feed with Metal color blindness shaders. It explores the latest Composable Architecture beta before a larger coffee-related payments project.
+👋  Passionate about accessible apps and games. I'm an iOS engineer at the fintech [Empower](www.empower.me). Current open-source hobby project is [Colors We Can See](https://github.com/importRyan/Colors-We-See); it filters your camera feed with Metal color blindness shaders. It explores the latest Composable Architecture beta before a larger coffee-related payments project.
 
 ### Fun Libraries
 * [MetaWear Swift Combine SDK](https://github.com/mbientlab/MetaWear-Swift-Combine-SDK) — Stream BLE sensor data
