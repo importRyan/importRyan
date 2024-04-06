@@ -1,21 +1,19 @@
 👋  Passionate about accessible apps and games. I'm an iOS engineer at the fintech [Empower](www.empower.me). 
 
-Current open-source hobby projects:
-* [Muggle](https://github.com/importRyan/Muggle/) macOS menu bar app for Ember Bluetooth smart mugs.
-* [Colors We Can See](https://github.com/importRyan/Colors-We-See) ([TestFlight](https://testflight.apple.com/join/HVLQVH1w)) Filters your camera feed with Metal color blindness shaders. Explores the latest Composable Architecture beta before a larger coffee-related payments project.
+### Current open-source hobby projects
+* [Muggle](https://github.com/importRyan/Muggle/) — macOS menu bar app for Ember Bluetooth smart mugs.
+* [Colors We Can See](https://github.com/importRyan/Colors-We-See) ([TestFlight](https://testflight.apple.com/join/HVLQVH1w)) — Filters your camera feed with Metal color blindness shaders. Explores the latest Composable Architecture beta before a larger coffee-related payments project.
 
-### Fun Libraries
-* [MetaWear Swift Combine SDK](https://github.com/mbientlab/MetaWear-Swift-Combine-SDK) — Stream BLE sensor data
+### Past apps / fun libraries
 * [Oklab](https://github.com/importRyan/oklab/) — A perceptual LAB color space useful for smooth gradients and parallel manipulations
-
-### Past Apps
 * [SeedFi](https://apps.apple.com/us/app/seedfi-money-help/id1543834789) — Modular Composable Architecture + SwiftUI for consumer credit building and lending
 * [MetaWear](https://apps.apple.com/app/metawear/id1547334547) — Metal and SwiftUI for exploring BLE IMU sensor data during development
+* [MetaWear Swift Combine SDK](https://github.com/mbientlab/MetaWear-Swift-Combine-SDK) — Stream BLE sensor data
 * MetaBase — Collect BLE IMU sensor data in research studies
 
 https://user-images.githubusercontent.com/78187398/156852363-441c152a-f2f8-47c3-a826-7381124138bf.move
 
-### Hobby Apps
+### Past hobby apps
 <img align="left" src="https://user-images.githubusercontent.com/78187398/129800344-222723a8-c508-4a9b-bb65-ff7b3b4995ac.png"> 
 
 [WCAG Shades](https://apps.apple.com/app/wcag-shades/id1570595563) &nbsp; &nbsp; *iOS — UIKit, Metal*  
