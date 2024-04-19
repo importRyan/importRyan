@@ -1,7 +1,7 @@
 👋  Passionate about accessible apps and games. I'm an iOS engineer at the fintech [Empower](www.empower.me). 
 
 ### Current open-source hobby projects
-* [Muggle](https://github.com/importRyan/Muggle/) — macOS menu bar app for Ember Bluetooth smart mugs.
+* [Muggle](https://github.com/importRyan/Muggle/) ([TestFlight](https://testflight.apple.com/join/gWY84Gm8)) — macOS menu bar app for Ember Bluetooth smart mugs.
 * [Colors We Can See](https://github.com/importRyan/Colors-We-See) ([TestFlight](https://testflight.apple.com/join/HVLQVH1w)) — Filters your camera feed with Metal color blindness shaders. Explores the latest Composable Architecture beta before a larger coffee-related payments project.
 
 ### Past apps / fun libraries
